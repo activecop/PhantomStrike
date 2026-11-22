@@ -64,7 +64,15 @@ Press **`L`** in the main menu to switch languages at any time.
 
 ## 📸 Screenshots
 
-<img width="1104" height="2107" alt="GUI_CN" src="https://github.com/user-attachments/assets/966e8aeb-30d0-48ba-bf50-d0b20f4ce8f0" />
+<img width="1104" height="2110" alt="GUI_PT-PT" src="https://github.com/user-attachments/assets/10596d83-d061-4698-b48b-df02aa3535f5" />
+<img width="1104" height="451" alt="SELEC_LANG" src="https://github.com/user-attachments/assets/ac41250c-6ce8-492f-9031-78cfc5c10df9" />
+
+<img width="1104" height="2107" alt="GUI_EN" src="https://github.com/user-attachments/assets/d7437cb6-dda1-4ec6-af2a-a406764bbd00" />
+<img width="1104" height="2107" alt="GUI_CN" src="https://github.com/user-attachments/assets/8d248401-ea4b-4326-82e0-1975e3461366" />
+<img width="1104" height="2107" alt="GUI_RU" src="https://github.com/user-attachments/assets/038aab00-a967-4fb8-b001-7af8b5b3abb3" />
+<img width="1104" height="568" alt="method" src="https://github.com/user-attachments/assets/ccc49099-8ab3-45cb-bddf-e56947d118dd" />
+<img width="1104" height="2107" alt="SCAN" src="https://github.com/user-attachments/assets/9b74d292-d8dc-4834-8189-5ba9d719ad8c" />
+<img width="1505" height="1535" alt="MDK4_" src="https://github.com/user-attachments/assets/52b9425a-0416-4435-aaf2-634d80d896fa" />
 
 
 ---
