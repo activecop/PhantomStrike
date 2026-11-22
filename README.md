@@ -89,7 +89,7 @@ Press **`L`** in the main menu to switch languages at any time.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/PhantomStrike.git
+git clone https://github.com/activecop/PhantomStrike.git
 cd PhantomStrike
 
 # Run the installer
